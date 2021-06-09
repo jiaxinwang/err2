@@ -1,4 +1,4 @@
-module github.com/lainio/err2
+module github.com/jiaxinwang/err2
 
 go 1.14
 

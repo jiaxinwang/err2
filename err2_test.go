@@ -6,7 +6,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/lainio/err2"
+	"github.com/jiaxinwang/err2"
 )
 
 func throw() (string, error) {
